@@ -20,8 +20,8 @@ The cloning options will open for you to clone on your machine and run the proje
 
 You will choose in the option on HTTPS and copy the link that is in the field.
 
-![Getting url from repository](c:\Users\ygor9\OneDrive\Imagens\Capturas de tela\Captura de tela 2025-01-17 093312.png)
-![Getting url from repository](c:\Users\ygor9\OneDrive\Imagens\Capturas de tela\Captura de tela 2025-01-17 100338.png)
+![Getting url from repository](C:\Users\ygor9\OneDrive\Imagens\Img-Github/img-1.png)
+![Getting url from repository](C:\Users\ygor9\OneDrive\Imagens\Img-Github/img-2.png)
 
 ### Clone the Repository
 
