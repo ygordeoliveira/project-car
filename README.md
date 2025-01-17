@@ -20,8 +20,8 @@ The cloning options will open for you to clone on your machine and run the proje
 
 You will choose in the option on HTTPS and copy the link that is in the field.
 
-![Getting url from repository](../Img-Github/img-1.png)
-![Getting url from repository](../Img-Github/img-2.png)
+![Getting url from repository](https://github.com/ygordeoliveira/project-car/blob/main/img/img-1.png)
+![Getting url from repository](https://github.com/ygordeoliveira/project-car/blob/main/img/img-2.png)
 
 ### Clone the Repository
 
